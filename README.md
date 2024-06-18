@@ -138,4 +138,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 Agradecimiento especial al equipo de Alura por el material y el contenido del curso. También agradecemos al programa Oracle Next Education por la oportunidad de desarrollo.
 
-![badge literalura](https://github.com/luchiobv/ChallengeLiterAlura/assets/128253160/60fadf2c-3249-4657-9721-27b06460e60e)
+![badge_literalura_insignia](https://github.com/samantha09s/LiterAlura-ChallengeONE/assets/140031528/003be1af-fff6-4e6d-b9e8-aa081b1242b2)
